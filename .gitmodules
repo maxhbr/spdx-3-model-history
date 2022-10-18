@@ -1,0 +1,3 @@
+[submodule "spdx-3-model"]
+	path = spdx-3-model
+	url = https://github.com/spdx/spdx-3-model/
